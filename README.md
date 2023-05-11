@@ -23,7 +23,7 @@ GIF created with ...
 - [x] **Amazon Lex**
 - [x] **Python**
 - [x] **Amazon Lambda Function** 
-- [x] **Amazon Cloud Watch **
+- [x] **Amazon Cloud Watch**
 - [x] **Amazon SNS**
 
 ## License
