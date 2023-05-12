@@ -9,7 +9,7 @@ This web app: **Building an interactive chatbot and monitoring the activities on
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/zmor-prog/AmazonChatBot/blob/main/cloud_security_finalproject_chatbot.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
